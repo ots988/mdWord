@@ -23,7 +23,7 @@
 ### 1.3	当前主流web服务器市场情况
 根据2016年11月的web服务器调查（在2016次调查中，收到了来自1436724046个网站和6225374个面向Web的计算机的响应）
 ![image](C:/Users/Administrator/Desktop/培训：nginx/服务器用户图.png)
-![image](file:///C:/Users/Administrator/Desktop/%E5%9F%B9%E8%AE%AD%EF%BC%9Anginx/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%94%A8%E6%88%B7%E5%9B%BE.png)
+![image](file:///C:/Users/Administrator/Desktop/培训：nginx/服务器用户图.png)
 ### 1.4	对比较常见的几个服务器进行比较
 ![image](C:/Users/Administrator/Desktop/培训：nginx/服务器性能比较.png)
 通过比较我们可以看出，nginx在反向代理商，rewrite规则，稳定性，静态文件处理
