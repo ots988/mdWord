@@ -22,5 +22,5 @@
 
 ### 1.3	当前主流web服务器市场情况
 根据2016年11月的web服务器调查（在2016次调查中，收到了来自1436724046个网站和6225374个面向Web的计算机的响应）
-![image](./服务器用户图.png)
+![image](https://github.com/ots988/mdWord/edit/master/培训：nginx/服务器用户图.png)
 
